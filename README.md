@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Weverton Santos
 
 - 🔭 Trabalho como Jovem Aprendiz
-- 🌱 Estudando Java
+- 🌱 Estudando Java e Spring Boot
 - 📫 Contate-me pelo meu e-mail: wever-santos@hotmail.com
 
 <div align="center">
