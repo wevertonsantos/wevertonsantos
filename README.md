@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Weverton Santos
 
-- 🔭 Trabalho como Jovem Aprendiz
-- 🌱 Estudando Framework Spring Boot
+- 🔭 Se desenvolvendo como desenvolvedor.
+- 🌱 Estudando .NET, TypeScript, ReactJS, SQL.
 - 📫 Contate-me pelo meu e-mail: wever-santos@hotmail.com
 
 <div align="center">
@@ -10,7 +10,6 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Weverton-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Weverton-Spring" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg">
   <img align="center" alt="Weverton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Weverton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Weverton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
