@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Weverton Santos
 
-- 🔭 Se desenvolvendo como desenvolvedor.
+- 🔭 Estudando e praticando para desenvolvedor.
 - 🌱 Estudando .NET, TypeScript, ReactJS, SQL.
 - 📫 Contate-me pelo meu e-mail: wever-santos@hotmail.com
 
